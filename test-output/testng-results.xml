@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1348" started-at="2014-04-11T18:18:41Z" finished-at="2014-04-11T18:18:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1348" started-at="2014-04-11T18:18:41Z" finished-at="2014-04-11T18:18:42Z">
+      <class name="com.xuexibao.qrcode.ResolveStatisticsTest">
+        <test-method status="PASS" signature="testResolveStatistics()[pri:0, instance:com.xuexibao.qrcode.ResolveStatisticsTest@19484a05]" name="testResolveStatistics" duration-ms="1340" started-at="2014-04-11T18:18:41Z" finished-at="2014-04-11T18:18:42Z">
+        </test-method> <!-- testResolveStatistics -->
+      </class> <!-- com.xuexibao.qrcode.ResolveStatisticsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
